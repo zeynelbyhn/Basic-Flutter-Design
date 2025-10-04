@@ -1,6 +1,6 @@
 # Flutter UI Design
 
-A new Flutter project.
+This user interface was built with Flutter.
 
 ## Getting Started
 
